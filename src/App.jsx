@@ -136,7 +136,7 @@ const WeddingInvitation = () => {
           ADD TO GOOGLE CALENDAR <FaCalendarPlus size={20} />
         </a>
         <a
-  href="YOUR_INVITATION_CARD_LINK"
+  href="https://drive.google.com/file/d/1znsgoaSpiP76k_z5c4_MtrDGXux0KbP1/view?usp=sharing"
   download="Invitation | 23 Feb | Hope to see you there!"
   className="venue bg-pink-600 rounded-2xl text-white text-center flex items-center justify-center gap-2 py-2 sm:py-3 px-4 sm:px-6 shadow-lg transition duration-300 transform hover:scale-105 hover:shadow-xl"
 >
