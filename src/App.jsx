@@ -93,6 +93,8 @@ const WeddingInvitation = () => {
   {/* Floating Decorative Elements */}
   <div className="absolute top-2 left-2 w-3 h-3 bg-pink-500 rounded-full animate-ping"></div>
   <div className="absolute bottom-2 right-2 w-3 h-3 bg-pink-500 rounded-full animate-ping"></div>
+  <div className="absolute bottom-2 left-2 w-3 h-3 bg-pink-500 rounded-full animate-ping"></div>
+  <div className="absolute top-2 right-2 w-3 h-3 bg-pink-500 rounded-full animate-ping"></div>
 
   {/* Title */}
   <h3 className="text-lg sm:text-2xl font-bold text-purple-700 tracking-wide uppercase animate-fadeIn">
