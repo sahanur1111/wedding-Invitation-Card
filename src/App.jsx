@@ -149,7 +149,7 @@ const WeddingInvitation = () => {
         Can't wait to celebrate this auspicious moment with you! <br />
         Just a ping away for any queries: <span className="font-semibold">+91 9832744839 <sub className='text-pink-700'>by Kohinur & Sahanur</sub></span>
       </p>
-      <p className="text-pink-700 text-3xl sm:text-4xl font-bold mt-6 animate-pulse">
+      <p className="text-pink-700 text-center text-3xl sm:text-4xl font-bold mt-6 animate-pulse">
         Join us in our happiness!
       </p>
 
