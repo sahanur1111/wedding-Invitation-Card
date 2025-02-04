@@ -49,7 +49,7 @@ const WeddingInvitation = () => {
     const audio = document.getElementById("wedding-song");
     setTimeout(() => {
       audio.play().catch((error) => console.log("Autoplay failed:", error));
-    }, 5000);
+    }, 3000);
   }, []);
 
   // Google Calendar Event URL
