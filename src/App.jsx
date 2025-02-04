@@ -154,7 +154,7 @@ const WeddingInvitation = () => {
       </p>
 
       {/* Background Wedding Song */}
-      <audio id="wedding-song" loop>
+      <audio id="wedding-song" autoPlay>
   <source src="/song.mp3" type="audio/mpeg" />
 </audio>
     </div>
