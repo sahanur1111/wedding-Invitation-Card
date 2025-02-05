@@ -77,8 +77,8 @@ const WeddingInvitation = () => {
       <div className="wrap text-center px-4 sm:px-6 md:px-12 mt-8 sm:mt-10 animate-fadeIn">
         <h1 className="font-dancing-script font-bold text-bold text-4xl sm:text-6xl text-pink-700 mb-2 animate-float">Kohinur</h1>
         <h2 className="font-dancing-script font-bold text-2xl text-purple-700 animate-bounce">&</h2>
-        <h1 className="font-dancing-script font-bold text-4xl text-bold sm:text-6xl text-pink-700 animate-float">Lal  Muhammad</h1>
-        <h3 className="font-light uppercase tracking-widest text-sm sm:text-2xl text-purple-700 mt-4 sm:mt-5 animate-fadeIn">
+        <h1 className="font-dancing-script font-bold text-4xl text-bold sm:text-6xl text-pink-700 animate-float">Lal Mohammad</h1>
+        <h3 className="font-light upperohammadacking-widest text-sm sm:text-2xl text-purple-700 mt-4 sm:mt-5 animate-fadeIn">
           Are getting married
         </h3>
         <p className="text-gray-600 uppercase tracking-widest text-sm sm:text-base mt-6 sm:mt-8 animate-fadeInUp">
