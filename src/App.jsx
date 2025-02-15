@@ -7,7 +7,7 @@ import { FiDownload } from "react-icons/fi";
 
 const WeddingInvitation = () => {
   const calculateTimeLeft = () => {
-    const difference = +new Date("2025-02-22") - +new Date();
+    const difference = +new Date("2025-02-15") - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
