@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import "tailwindcss/tailwind.css";
-import "./App.css"; // Import the CSS for falling hearts
+import "./App.css"; // Import the CSS for falling heart
 import { PiMapPinLineBold } from "react-icons/pi";
 import { FaCalendarPlus } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
